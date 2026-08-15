@@ -77,3 +77,34 @@ while looking for interesting problems to build around.
 
 </p>
 </div>
+## Research & Publications
+
+**Cross-Layer Reinforcement Learning for Energy-Aware Resource Management in IoT Gateway Systems**  
+*ICPSCN 2026 · Co-author*
+
+Research applying reinforcement learning across network layers to improve energy-aware resource management in IoT gateway systems.
+
+**Benchmarking Variational Quantum Regressors Against Classical Linear Models for Solar Power Forecasting**  
+*RAEEUCCI 2026 · First author*
+
+A comparative study of variational quantum regression models and classical linear models for solar power forecasting.
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nandhiniraaj/nandhiniraaj/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nandhiniraaj/nandhiniraaj/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/nandhiniraaj/nandhiniraaj/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake">
+
+</picture>
+
+</div>
