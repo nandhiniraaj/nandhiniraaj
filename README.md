@@ -1,5 +1,3 @@
-
-</div>
 <div align="center">
 
 <img src="./nandhini_github_banner.svg"
@@ -13,6 +11,9 @@
      alt="Hey, I'm Nandhini">
 
 </div>
+
+<br>
+
 <div align="center">
 
 <h2>About</h2>
@@ -27,6 +28,7 @@ while looking for interesting problems to build around.
 </p>
 
 </div>
+
 <br>
 
 ## Interests & Currently
@@ -69,14 +71,8 @@ while looking for interesting problems to build around.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge">
+<br>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-</p>
-</div>
 ## Research & Publications
 
 **Cross-Layer Reinforcement Learning for Energy-Aware Resource Management in IoT Gateway Systems**  
@@ -88,6 +84,9 @@ Research applying reinforcement learning across network layers to improve energy
 *RAEEUCCI 2026 · First author*
 
 A comparative study of variational quantum regression models and classical linear models for solar power forecasting.
+
+<br>
+
 ## Contributions
 
 <div align="center">
