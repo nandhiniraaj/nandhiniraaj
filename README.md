@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nandhiniraaj/nandhiniraaj/main/intro.svg"
+<img src=intro.sgv
      width="90%"
      alt="Hey, I'm Nandhini">
 
