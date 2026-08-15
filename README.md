@@ -13,7 +13,20 @@
      alt="Hey, I'm Nandhini">
 
 </div>
+<div align="center">
 
+<h2>About</h2>
+
+<p>
+I'm a CS student at VIT Chennai interested in building things at the intersection of
+<strong>AI/ML, intelligent systems, and software engineering</strong>.
+I enjoy exploring ideas through research and hands-on projects, especially around
+<strong>reinforcement learning and agentic systems</strong>.
+Currently, I'm diving deeper into <strong>open source and production-grade ML</strong>,
+while looking for interesting problems to build around.
+</p>
+
+</div>
 <br>
 
 ## Interests & Currently
@@ -28,7 +41,7 @@
 
 ## Tech & Tools
 
-<p align="left">
+<p align="left" >
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
