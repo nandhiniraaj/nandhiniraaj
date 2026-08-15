@@ -14,36 +14,51 @@
      alt="Hey, I'm Nandhini">
 
 </div>
-
-<div align="center">
 <div align="center">
 
-### Interests & Currently
+<img src="./nandhini_github_banner.svg"
+     width="100%"
+     alt="Nandhini Raaj GitHub Banner">
 
-Exploring **AI agents, reinforcement learning & production-grade ML systems**
+<br><br>
 
-Diving deeper into **open source, LangChain/LangGraph & intelligent systems**
-
-Interested in **AI/ML, systems, cybersecurity & software engineering**
-
-Exploring research in **reinforcement learning & agentic systems**
-
-Open to **SDE / AI-ML internship opportunities**
+<img src="./intro.svg"
+     width="90%"
+     alt="Hey, I'm Nandhini">
 
 </div>
 
 <br>
 
-<div align="center">
+## Interests & Currently
 
-Visitor count
+> Exploring **AI agents, reinforcement learning & production-grade ML systems**  
+> Diving deeper into **open source, LangChain/LangGraph & intelligent systems**  
+> Interested in **AI/ML, systems, cybersecurity & software engineering**  
+> Exploring research in **reinforcement learning & agentic systems**  
+> Open to **SDE / AI-ML internship opportunities**
 
-<img src="https://profile-counter.glitch.me/nandhiniraaj/count.svg"
-     alt="Visitor's Count">
+<br>
 
-</div>
-<p>Visitor count</p>
-<img src="https://profile-counter.glitch.me/nandhiniraaj/count.svg"
-     alt="Visitor's Count">
+## Tech & Tools
 
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+</p>
 </div>
