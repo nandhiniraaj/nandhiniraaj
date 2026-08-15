@@ -7,10 +7,13 @@
 </div>
 
 <br>
+<div align="center">
 
-## Hey, I'm Nandhini 👋
+<img src="https://raw.githubusercontent.com/nandhiniraaj/nandhiniraaj/main/intro.svg"
+     width="90%"
+     alt="Hey, I'm Nandhini">
 
-...
+</div>
 
 <div align="center">
 
